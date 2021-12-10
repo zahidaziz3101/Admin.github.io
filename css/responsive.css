@@ -1,0 +1,450 @@
+@media all and (max-width:1360px){
+	
+	
+.signin-right {
+    width: 90%; 
+    margin-top: 38px;
+	margin-left: 0px;
+}	
+.signin-left {
+    width: 90%; 
+}	
+}
+
+@media all and (max-width:1311px){
+	
+.box {
+    width: 40%; 
+}	
+	
+.skil-top h2 { 
+    margin-left: 400px; 
+}
+.pie-title-center { 
+    margin: 0 50px;
+}
+.skil-bottom { 
+    padding: 50px 60px;
+}
+
+	
+}
+@media all and (max-width:1200px){
+	.manu-area {
+    width: 80%; 
+}
+.logo-area {
+    width: 20%;
+	margin-top:10px;
+}
+.login { 
+    margin-left: 380px;
+}
+.section-top h2 { 
+    margin-left: 300px; 
+}
+.section-box .box {
+    width: 30%; 
+    padding: 10px 30px;
+}
+.team-top h2 { 
+    margin-left: 210px; 
+}
+.skil-top h2 {
+    margin-left: 370px;
+}
+.portfolio-login { 
+    margin-left: 380px; 
+}
+.comment-top h2 { 
+    margin-left: 250px 
+}
+.signin-top h2 { 
+    margin-left: 380px; 
+}
+.signin-login { 
+    margin-left: 380px; 
+}
+.portfolio-member img {
+    width: 70%;
+}
+.portfolio-member {
+    width: 500px;
+    height: 200px;
+}
+.team-top{
+	margin-left:80px;
+}
+
+}
+@media all and (max-width:1119px){
+.login {
+    margin-left: 330px;
+}
+.section-top h2 {
+    margin-left: 270px;
+}
+.team-top h2 {
+    margin-left: 160px;
+}
+.team-top {
+    margin-left: 90px;
+}
+.skil-top h2 {
+    margin-left: 330px;
+}
+.portfolio-member {
+    width: 450px;
+    height: 200px;
+}
+.comment-top h2 {
+    margin-left: 200px;
+}
+.comment-bottom { 
+    width: 47%;
+}
+.signin-top h2 {
+    margin-left: 350px;
+}
+.signin-right {
+    width: 88%; 
+}
+.signin-left {
+    width: 88%;
+}
+}
+@media all and (max-width:1076px){
+.manu-area {
+    width: 88%;
+}
+.logo-area {
+    width: 12%;
+	margin-top:10px;
+}
+.section-top h2 {
+    margin-left: 230px;
+}
+.section-box .box {
+    width: 24%;
+    padding: 8px 60px;
+}
+.team-top h2 {
+    margin-left: 100px;
+}
+.team-list { 
+    margin-left: 35px;
+}
+.skil-top h2 {
+    margin-left: 270px;
+}
+.portfolio-member {
+    width: 400px;
+    height: 180px;
+}
+.portfolio-member img {
+    width: 60%;
+}
+.team-top h2 {
+    margin-left: 125px;
+}
+.skil-top h2 {
+    margin-left: 300px;
+}
+.portfolio-login {
+    margin-left: 310px;
+}
+
+.comment-bottom {
+    display: inline-block;
+    padding: 70px 5px;
+    width: 47%;
+}
+.comment-bottom .comment-cont {
+    width: 60%;
+    margin-left:30px;
+    
+}
+}
+@media all and (max-width:970px){
+.team-top h2 {
+    margin-left: 100px;
+}	
+.skil-top h2 {
+    margin-left: 280px;
+}
+.comment-top h2 {
+    margin-left: 140px;
+}
+.signin-top h2 {
+    margin-left: 290px;
+}
+.tox { 
+    margin-left: 100px; 
+}
+.signin-bottom {
+    width: 74%; 
+    padding: 30px 100px;
+}
+.signin-bottom label { 
+    left: 120px; 
+}
+.manu-area {
+    width: 97%;
+}
+.logo-area {
+    width: 3%;
+    margin-top: 10px;
+} 
+.login {
+    margin-left: 260px;
+}
+.section-top h2 {
+    margin-left: 170px;
+}
+.team-top h2 {
+    margin-left: 70px;
+}
+.skil-top h2 {
+    margin-left: 230px;
+}
+.portfolio-member {
+    width: 340px;
+    height: 140px;
+}
+.portfolio-login {
+    margin-left: 250px;
+}
+.comment-top h2 {
+    margin-left: 100px;
+}
+.signin-top h2 {
+    margin-left: 250px;
+}
+.signin-bottom {
+    width: 73%;
+    padding: 30px 100px;
+}
+.signin-login {
+    margin-left: 240px;
+}
+}
+@media all and (max-width:869px){
+	 /* jQuery icons   */
+.boss{
+	padding:10px 10px;
+	background:#d6457e;
+	text-align:right;
+	display:block;  
+}
+.boss a{
+	display:inline-block;
+}
+ 
+.boss a i{ 
+	 font-size:20px; 
+	 color:#fff;
+}
+.top a{
+	background:rgba(0,0,0,.4);
+	padding:10px 20px;
+	color:#fff;
+	position:fixed;
+	bottom:10px;
+	right:10px;
+	border-radius:10px 10px 0 0;
+	font-size:30px; 
+} 
+.manu-area ul li {
+    float: none;
+}
+.manu-area ul {
+     margin-left: 300px;
+    display: none;
+}
+.manu-area { 
+    margin-top: 0px;
+}
+.manu-area ul li a { 
+    display: inline-block; 
+    padding: 20px 90px;
+    
+}
+.skil-bottom {
+    padding: 50px 50px;
+}
+.section-box .box {
+    width: 27%;
+    padding: 8px 50px;
+}
+}
+@media all and (max-width:789px){
+.header-second h2 { 
+    font-size: 30px; 
+}
+.login {
+    margin-left: 160px;
+}
+.section-top h2 {
+    margin-left: 100px;
+}
+.box {
+    width: 49%;
+    padding: 8px 2px;
+}
+.team-top h2 {
+    margin-left: 10px;
+    font-size: 35px;
+}
+.skil-top h2 {
+    margin-left: 150px;
+}
+.skil-bottom {
+    padding: 50px 0px;
+}
+.portfolio-member {
+    width: 250px;
+    height: 100px;
+}
+.middle-area {
+    width: 90%; 
+}
+.portfolio-login {
+    margin-left: 150px;
+}
+.comment-top h2 {
+    margin-left: 0px;
+}
+}
+@media all and (max-width:556px){
+.comment-bottom {
+    
+    width: 100%;
+}
+.comment-top h2 { 
+    font-size: 25px;
+	margin-left: 0px;
+	text-align:center;
+}
+.header-second h2 {
+     font-size: 25px;
+	margin-left: 0px;
+	text-align:center;
+}	
+.section-top h2 {
+    font-size: 25px;
+	margin-left: 40px;
+	text-align:center; 
+}
+.team-top h2 {
+    font-size: 25px;
+	margin-left: 0px;
+	text-align:center; 
+}
+.skil-top h2 {
+	font-size: 25px;
+	margin-left: 90px;
+	text-align:center; 
+}
+.portfolio-top h2 {
+    font-size: 25px;
+	margin-left: 0px;
+	text-align:center;
+}
+.signin-top h2 {
+    font-size: 25px;
+	margin-left: 120px;
+	text-align:center;
+}
+.logo-area{
+	position:absolute;
+	top:0; 
+	display:block;
+	margin-top:-70px;
+	margin-left:140px;
+}
+ 
+.logo-area img {
+    margin-top: 0px;
+    margin-left: 0px;
+	 
+}
+.manu-area ul {
+    margin-left: 10px;
+}
+.login a { 
+    padding: 15px 30px; 
+    font-size: 14px; 
+}
+.login {
+    margin-left: 130px;
+}
+.section-box .box {
+    width: 100%;
+     
+    padding: 0 0px;
+}
+.team-top {
+    margin-left: 0px;
+}
+.box {
+    width: 100%;
+	padding:0 0;
+}
+.team-member {
+    width: 180px;
+    height: 180px;
+    margin-left:40px;
+}
+.team-box {
+    text-align: left;
+}
+.team-list {
+    margin-left: 40px;
+	text-align:left;
+}
+.portfolio-login a {
+   padding: 15px 30px; 
+    font-size: 14px;   
+}
+.portfolio-login{
+	margin-left: 100px;
+}
+.tox {
+    width:80%;
+    margin-left:0px;
+    margin-top: 70px;
+}
+.signin-bottom {
+    width: 90%; 
+	padding:30px 0;
+}
+.signin-login input {
+	padding: 15px 30px; 
+    font-size: 14px; 
+}
+.signin-login { 
+    margin-left: 100px; 
+}
+.footer-area {
+    text-align:left;
+}
+.boss{
+	padding:10px 10px;
+	background:#d6457e;
+	text-align:right;
+	display:block; 
+	margin-top:100px;
+}
+.portfolio-manu ul li a {
+    
+    font-size: 16px;
+     
+    padding: 5px 15px;
+    
+   
+}
+body{
+	background:#ffdd99;
+	position:relative;
+}
+}
